@@ -11,7 +11,9 @@ import enums.Username;
 
 public class AdminLoginTest {
 
+
     //don't do that
+
     private App app;
 
     @BeforeMethod
