@@ -11,7 +11,8 @@ import enums.Username;
 
 public class AdminLoginTest {
 
-    // mama mu stara
+
+    //don't do that
 
     private App app;
 
